@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @KernalPenguino
-- 👀 I’m interested in Game Devolpment
-- 🌱 I’m currently learning Godot
+C++ Femboy 
 
 <!---
 KernalPenguino/KernalPenguino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
